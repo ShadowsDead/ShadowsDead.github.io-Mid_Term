@@ -1,0 +1,52 @@
+    h1 {
+        font-family: 'Sansita Swashed', cursive;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    h2 {
+        font-family: 'Sansita Swashed', cursive;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    h3 {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    .cursive {
+        font-family: 'Sansita Swashed', cursive;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    .normal {
+        font-family: 'PT Sans Narrow', sans-serif;
+        font-weight: normal;
+        font-style: normal;
+        text-align: center;
+}
+
+    body{
+        background-color: #000000 !important;
+    }
+
+    [class*="col-"] {
+        padding: 1rem;
+}
+
+    @media (max-width: 992px) {
+
+}
+    @media (max-width: 768px) {
+
+}
+    @media (max-width: 576px) {
+
+}
